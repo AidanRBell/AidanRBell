@@ -1,4 +1,4 @@
-👋 Hi, I’m Aidan Bell (@AidanRBell)
+👋 Hi, I’m Aidan Bell (@AidanRBell) \n
 📕 I'm a second year student at Western University, in Honours Specialization of Computer Science, with a Minor in Game Development.
 😁 My interests include Computer Science, Music, Video Games, Finance, and Streetwear.
 📝 I’m currently learning general Computer Science and Software Engineering Fundamentals, and more specifically Game Developement and Artificial Inteligence.
