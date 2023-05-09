@@ -1,9 +1,8 @@
 👋 Hi, I’m Aidan Bell (@AidanRBell)\
-📕 I'm a second year student at Western University, in Honours Specialization of Computer Science, with a Minor in Game Development.\
-😁 My interests include Computer Science, Music, Video Games, Finance, and Streetwear.\
+📕 I'm a third year student at Western University, in Honours Specialization of Computer Science, with a Minor in Game Development.\
 \
-📝 I’m currently learning general Computer Science and Software Engineering Fundamentals, and more specifically Game Developement and Artificial Inteligence.\
-🛠 My current project is a 2D Platforming Game on Unity. I've been developing it in my spare time starting in July 2022 from the ground up.\
+📝 I’m currently further exploring general Computer Science and Software Engineering Fundamentals, and more specifically Game Developement and Artificial Inteligence.\
+🛠 My current project is a 2D Platforming Game on Unity in collaboration with @kxrkevin.\
 👥 I’m looking to collaborate on part-time jobs or internships delving into programming fundamentals, game development, software engineering, and/or artificial intelligence.\
 \
 💬 Feel free to reach out:\
