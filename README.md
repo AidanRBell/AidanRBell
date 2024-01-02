@@ -4,7 +4,7 @@
 📝 I’m currently further exploring general Computer Science and Software Engineering Fundamentals, and more specifically Game development and Artificial intelligence.\
 \
 🛠 The projects I am currently working on are (all are on github):\
-    - Project EH: A 2D Platform Fighting Game created using Unity
+    - Project EH: A 2D Platform Fighting Game created using Unity/
     - Mathematical Functions User Interface
 \
 👥 I’m looking to collaborate on part-time jobs, co-ops, or internships delving into programming fundamentals, game development, software engineering, and/or artificial intelligence.\
