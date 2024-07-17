@@ -1,14 +1,11 @@
 👋 Hi, I’m Aidan Bell (@AidanRBell)\
 \
-📕 I'm a third-year student at Western University, in an Honours Specialization in Computer Science, with a Minor in Game Development.\
-📝 I’m currently further exploring general Computer Science and Software Engineering Fundamentals, and more specifically Game development and Artificial intelligence.\
+📕 I'm a fourth-year Computer Science Student at Western University; currently, I am enrolled in an Honors Specialization in Computer Science, and a Minor in Game Development.\
 \
-🛠 The projects I am currently working on are (all are on github):\
-    - Project EH: A 2D Platform Fighting Game created using Unity\
-    - Mathematical Functions User Interface
+🛠 Currently, I'm developing a 2D platforming game in the Unity Engine as a side/passion project. All files can be found in the Repository *Project-Huff*, including a demo video in the first main folder.
 \
-👥 I’m looking to collaborate on part-time jobs, co-ops, or internships delving into programming fundamentals, game development, software engineering, and/or artificial intelligence.\
+👥 I’m looking to collaborate on part-time jobs, co-ops, or internships delving into  software engineering, game development, graphics, artificial intelligence, and other fields in the Computer Science industry.\
 \
 💬 Feel free to reach out / check out:\
-    Email: [ aidanrbell03@gmail.com ]\
+    Email: [ abell246@uwo.com ]\
     LinkedIn: [ https://www.linkedin.com/in/aidanrbell/ ]\
