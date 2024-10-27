@@ -8,4 +8,4 @@
 \
 💬 Feel free to reach out / check out:\
     Email: [ abell246@uwo.com ]\
-    LinkedIn: [ https://www.linkedin.com/in/aidanrbell/ ]\
+    LinkedIn: [ https://www.linkedin.com/in/aidanrbell/ ]
