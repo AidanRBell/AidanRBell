@@ -7,6 +7,6 @@
 👥 I’m looking to collaborate on part-time jobs, co-ops, or internships delving into  software engineering, game development, graphics, artificial intelligence, and other fields in the Computer Science industry.\
 \
 💬 Feel free to reach out / check out:\
-    \tEmail: [ abell246@uwo.com ]\
+    Email: [ abell246@uwo.com ]\
     LinkedIn: [ https://www.linkedin.com/in/aidanrbell/ ]\
     Creative Works: [ https://www.instagram.com/aidans_vault/ ]
