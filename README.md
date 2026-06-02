@@ -5,6 +5,6 @@
 🛠 Currently, I'm developing my passion project game "LEAVES", a microgame collection centered around plants doing household chores for their owner who could use the extra help. Its being developed in the Unity 2D engine, and all programming, implementing, testing, designing, sprites, and animation are being developed independently.\
 \
 👥 I’m looking to collaborate on part-time positions or internships delving into  game development, software engineering, graphics, artificial intelligence, and other Computer Science jobs, so if you like what you see, feel free to reach out:\
-- Email: [ aidanbell404@gmail.com ]\
-- LinkedIn: [ https://www.linkedin.com/in/aidanrbell/ ]\
+- Email: [ aidanbell404@gmail.com ]
+- LinkedIn: [ https://www.linkedin.com/in/aidanrbell/ ]
 - Creative Works: [ https://www.instagram.com/aidans_vault/ ]
